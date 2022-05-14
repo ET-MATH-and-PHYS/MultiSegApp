@@ -33,7 +33,6 @@ constantly==15.1.0
 cryptography==37.0.2
 cycler==0.11.0
 cypari==2.4.1
-cypari2==2.1.2
 cysignals==1.11.2
 Cython==0.29.28
 DateTime==4.4
