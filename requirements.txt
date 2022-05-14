@@ -158,7 +158,6 @@ pyrsistent==0.18.1
 pyserial==3.5
 python-dateutil==2.8.2
 python-debian==0.1.43
-python-distutils-extra==2.39
 python-dotenv==0.20.0
 pythran==0.11.0
 pytz==2022.1
