@@ -36,7 +36,6 @@ cypari==2.4.1
 cysignals==1.11.2
 Cython==0.29.28
 DateTime==4.4
-dbus-python==1.2.18
 debugpy==1.6.0
 decorator==5.1.1
 defusedxml==0.7.1
@@ -55,7 +54,6 @@ executing==0.8.3
 fastjsonschema==2.15.3
 filelock==3.7.0
 fonttools==4.33.3
-fpylll==0.5.6
 fs==2.4.16
 gast==0.5.3
 gevent==21.12.0
@@ -132,7 +130,6 @@ platformdirs==2.5.2
 pluggy==1.0.0
 ply==3.11
 ppl==0.4.5
-pplpy==0.8.7
 primecountpy==0.1.0
 prometheus-client==0.14.1
 prompt-toolkit==3.0.29
@@ -145,7 +142,6 @@ pyasn1-modules==0.2.8
 pycairo==1.21.0
 pycparser==2.21
 Pygments==2.12.0
-PyGObject==3.42.1
 PyHamcrest==2.0.3
 PyJWT==2.4.0
 pymacaroons==0.13.0
