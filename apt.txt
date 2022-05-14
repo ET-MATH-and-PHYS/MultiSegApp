@@ -1,3 +1,4 @@
+apt-utils
 ipython3
 python3
 jupyter

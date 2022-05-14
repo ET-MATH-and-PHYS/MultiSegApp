@@ -16,7 +16,6 @@ beniget==0.4.1
 billiard==3.6.4.0
 bleach==5.0.0
 blinker==1.4
-brial==1.0.2
 Brotli==1.0.9
 celery==5.2.6
 certifi==2021.10.8
@@ -174,7 +173,6 @@ regex==2022.4.24
 requests==2.27.1
 roman==3.3
 rpy2==3.5.1
-sagemath-standard==9.5
 sagenb-export==3.2
 scipy==1.8.0
 SecretStorage==3.3.2
