@@ -156,7 +156,7 @@ pyparsing==3.0.9
 pyperclip==1.8.2
 pyrsistent==0.18.1
 pyserial==3.5
-python-apt==2.3.0+ubuntu2
+python-apt>=0.7.8
 python-dateutil==2.8.2
 python-debian==0.1.43
 python-distutils-extra==2.39
