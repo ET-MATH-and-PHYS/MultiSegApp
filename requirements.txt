@@ -168,7 +168,7 @@ regex==2022.4.24
 requests==2.27.1
 roman==3.3
 rpy2==3.5.1
-scipy==1.8.0
+scipy>=1.7.3
 SecretStorage==3.3.2
 Send2Trash==1.8.1b0
 service-identity==21.1.0
